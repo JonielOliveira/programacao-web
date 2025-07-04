@@ -4,8 +4,8 @@ Repositório principal do **Join & Chat**, uma aplicação web de troca de mensa
 
 Este repositório organiza os dois módulos principais como **submódulos Git**:
 
-- [`backend/`](./backend) – API REST com Node.js, Express e Prisma  
-- [`frontend/`](./frontend) – Interface web com Next.js, Tailwind e shadcn/ui
+- [`backend/`](https://github.com/JonielOliveira/programacao-web-backend) – API REST com Node.js, Express e Prisma  
+- [`frontend/`](https://github.com/JonielOliveira/programacao-web-frontend) – Interface web com Next.js, Tailwind e shadcn/ui
 
 ---
 
@@ -29,8 +29,8 @@ git clone --recurse-submodules https://github.com/JonielOliveira/programacao-web
 
 Após clonar, siga os passos descritos nos READMEs de cada submódulo:
 
-- [`backend/README.md`](./backend/README.md)
-- [`frontend/README.md`](./frontend/README.md)
+- [`backend/README.md`](https://github.com/JonielOliveira/programacao-web-backend/blob/main/README.md)
+- [`frontend/README.md`](https://github.com/JonielOliveira/programacao-web-frontend/blob/main/README.md)
 
 ---
 
